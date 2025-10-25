@@ -120,6 +120,11 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+## Connecting to the dragino-2e774:
+
+<img width="261" height="290" alt="image" src="https://github.com/user-attachments/assets/f8c39354-56c6-49ef-ba51-ff9462dd80bf" />
+
+
 ## website Login :
 
 <img width="1920" height="1200" alt="Screenshot (698)" src="https://github.com/user-attachments/assets/52edb850-53bf-4430-a6c3-e1c52c12b4cc" />
